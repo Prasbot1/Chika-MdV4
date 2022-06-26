@@ -18,18 +18,18 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285701863281','6281329555165']
-global.premium = ['6285701863281']
-global.ownernomer = '6285701863281'
-global.ownername = 'ZenixDCode'
-global.botname = 'ZennBot-Md'
-global.footer = 'ZenixDCode'
+global.owner = ['6289666747744','6289666747744']
+global.premium = ['6289666747744']
+global.ownernomer = '6289666747744'
+global.ownername = 'PraszTAMVAN'
+global.botname = 'XyuziMd'
+global.footer = 'Xyuzi'
 global.ig = 'https://instagram.com/tn_zenix'
-global.email = 'nandananda2235@gmail.com'
+global.email = 'praszbotofc@gmail.com'
 global.region = 'Indonesia'
 global.sc = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.myweb = 'https://api-riychdwayne.herokuap.com'
-global.packname = 'ZennBot-Md'
+global.packname = 'Xyuxi-Md'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'chika'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -42,7 +42,7 @@ global.mess = {
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    wait: 'Wait a Minute Seconds..',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
     global.limitawal = {
