@@ -18,9 +18,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6289666747744','6289666747744']
-global.premium = ['6289666747744']
-global.ownernomer = '6289666747744'
+global.owner = ['+84 38 920 5504','+84 38 920 5504']
+global.premium = ['+84 38 920 5504']
+global.ownernomer = '+84 38 920 5504'
 global.ownername = 'PraszTAMVANz'
 global.botname = 'XyuziMd'
 global.footer = 'Xyuzi'
@@ -35,7 +35,7 @@ global.sessionName = 'chika'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '✓ Success',
+    success: '✓DONE',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
