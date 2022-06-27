@@ -18,9 +18,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6289666747744','6289666747744']
+global.owner = ['+84 38 920 5504','6289666747744']
 global.premium = ['6289666747744']
+global.premium = ['+84 38 920 5504']
 global.ownernomer = '6289666747744'
+global.ownetnomer = '+84 38 920 5504'
 global.ownername = 'PraszTAMVAN'
 global.botname = 'XyuziMd'
 global.footer = 'Xyuzi'
